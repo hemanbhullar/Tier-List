@@ -1,1 +1,1 @@
-# lab-html-css-js# Tier-List
+# Tier-List
